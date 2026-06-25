@@ -1,0 +1,8 @@
+GO
+
+RESTORE DATABASE [RateMyProfessorDB_Restaurada]
+FROM DISK = 'C:\Respaldos\RateMyProfessorDB_Full.bak'
+WITH REPLACE,
+     MOVE 'RateMyProfessorDB' TO 'C:\Respaldos\RateMyProfessorDB_Restaurada.mdf',
+     MOVE 'RateMyProfessorDB_log' TO 'C:\Respaldos\RateMyProfessorDB_Restaurada_log.ldf';
+GO

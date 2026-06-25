@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 15. FUNCIÓN: VALIDAR SI YA EVALUÓ
 -- Retorna 1 si el estudiante ya evaluó la asignación.

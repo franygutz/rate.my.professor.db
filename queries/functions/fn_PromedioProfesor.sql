@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 14. FUNCIÓN: PROMEDIO DE UN PROFESOR
 -- Devuelve el promedio general de calificaciones de un profesor.

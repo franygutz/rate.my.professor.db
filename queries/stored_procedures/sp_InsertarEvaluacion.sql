@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 16. PROCEDIMIENTO: INSERTAR EVALUACIÓN
 -- Inserta una evaluación aplicando validaciones de negocio.

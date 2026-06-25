@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 18. PROCEDIMIENTO: ARCHIVAR EVALUACIONES ANTIGUAS
 -- Mueve evaluaciones antiguas a una tabla histórica.

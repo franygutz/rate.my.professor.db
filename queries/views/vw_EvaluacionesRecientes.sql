@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 13. VISTA: EVALUACIONES RECIENTES
 -- Presenta evaluaciones con datos del profesor, curso y semestre.

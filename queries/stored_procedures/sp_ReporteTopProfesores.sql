@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 17. PROCEDIMIENTO: REPORTE TOP PROFESORES
 -- Devuelve los mejores profesores según promedio general.

@@ -1,3 +1,6 @@
+USE RateMyProfessorDB;
+GO
+
 ---------------------------------------------------------------
 -- 12. VISTA: RANKING DE PROFESORES
 -- Muestra promedios por profesor y cantidad de evaluaciones.
